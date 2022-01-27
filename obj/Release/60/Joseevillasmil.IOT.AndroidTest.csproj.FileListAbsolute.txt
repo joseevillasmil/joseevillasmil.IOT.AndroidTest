@@ -1,0 +1,7 @@
+C:\Users\Josee\source\repos\ConsoleApp1\Joseevillasmil.IOT.AndroidTest\obj\Release\60\MonoAndroid,Version=v6.0.AssemblyAttributes.cs
+C:\Users\Josee\source\repos\ConsoleApp1\Joseevillasmil.IOT.AndroidTest\obj\Release\60\build.props
+C:\Users\Josee\source\repos\ConsoleApp1\Joseevillasmil.IOT.AndroidTest\obj\Release\60\adb.props
+C:\Users\Josee\source\repos\ConsoleApp1\Joseevillasmil.IOT.AndroidTest\obj\Release\60\Joseevillasmil.IOT.AndroidTest.csprojAssemblyReference.cache
+C:\Users\Josee\source\repos\ConsoleApp1\Joseevillasmil.IOT.AndroidTest\obj\Release\60\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Josee\source\repos\ConsoleApp1\Joseevillasmil.IOT.AndroidTest\obj\Release\60\res.flag
+C:\Users\Josee\source\repos\ConsoleApp1\Joseevillasmil.IOT.AndroidTest\obj\Release\60\lp\0\jl\files.cache

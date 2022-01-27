@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\joseevillasmil\\Documentos\\GitHub\\joseevillasmil.IOT.AndroidTest\\joseevillasmil.IOT.AndroidTest.csproj": {}
+  },
+  "projects": {
+    "D:\\joseevillasmil\\Documentos\\GitHub\\joseevillasmil.IOT.AndroidTest\\joseevillasmil.IOT.AndroidTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\joseevillasmil\\Documentos\\GitHub\\joseevillasmil.IOT.AndroidTest\\joseevillasmil.IOT.AndroidTest.csproj",
+        "projectName": "joseevillasmil.IOT.AndroidTest",
+        "projectPath": "D:\\joseevillasmil\\Documentos\\GitHub\\joseevillasmil.IOT.AndroidTest\\joseevillasmil.IOT.AndroidTest.csproj",
+        "packagesPath": "C:\\Users\\Josee\\.nuget\\packages\\",
+        "outputPath": "D:\\joseevillasmil\\Documentos\\GitHub\\joseevillasmil.IOT.AndroidTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Josee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://softlandchile.pkgs.visualstudio.com/_packaging/Softland/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Azure.Data.Tables": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            },
+            "Azure.Messaging.ServiceBus": {
+              "target": "Package",
+              "version": "[7.5.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
